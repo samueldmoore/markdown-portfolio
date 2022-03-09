@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My avatar bit map](https://avatars.githubusercontent.com/u/25553228?s=96&v=4)
